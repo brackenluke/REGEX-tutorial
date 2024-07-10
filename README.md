@@ -1,8 +1,5 @@
 # REGEX-tutorial
 regex tutuorial md file, read this to understand more about regex
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
 
 ## Summary
 
